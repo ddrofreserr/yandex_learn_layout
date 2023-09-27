@@ -1,0 +1,10 @@
+.video {
+  padding: 0;
+  display: flexbox;
+  width: 1100px;
+  flex-wrap: wrap;
+  height: 400px;
+  /* justify-content: space-between; */
+  align-items: center;
+  margin: 100px auto 0;
+}

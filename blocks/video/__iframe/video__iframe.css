@@ -1,0 +1,10 @@
+.video__iframe {
+  /* position: relative; */
+  margin: 50px auto 0 20px;
+  width: 515;
+  height: 316;
+}
+
+.video__iframe:first-child {
+  margin: 50px auto 0;
+}
